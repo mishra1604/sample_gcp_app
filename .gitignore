@@ -1,0 +1,6 @@
+bin
+include/python3.12
+lib
+pyvenv.cfg
+zinc-presence-451322-t0-67ab5231a7bd.json
+.DS_Store
